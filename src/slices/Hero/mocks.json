@@ -1,0 +1,36 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading1",
+						"content": {
+							"text": "Beauty"
+						}
+					}
+				]
+			},
+			"body": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Consectetur eiusmod ut commodo irure amet nisi et elit do tempor. Anim quis pariatur consequat veniam magna ullamco reprehenderit consectetur adipisicing consectetur eiusmod nisi tempor incididunt aute."
+						}
+					}
+				]
+			},
+			"buy_button_text_here": {
+				"__TYPE__": "FieldContent",
+				"value": "against",
+				"type": "Text"
+			}
+		},
+		"items": []
+	}
+]
